@@ -1,6 +1,6 @@
 {
-  "name": "Apple Clone",
-  "short_name": "AppleClone",
+  "name": "Apple Store Clone",
+  "short_name": "AppleStoreClone",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#000000",
