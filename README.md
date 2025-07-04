@@ -1,4 +1,6 @@
 # Apple-Store-Clone
+![image](https://github.com/user-attachments/assets/f3a90586-e8dc-4dad-a5fe-a1a5d9831e13)
+
 
 This is a simple Apple Store navigation and promotional UI clone featuring:
 
